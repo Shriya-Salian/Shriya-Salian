@@ -14,4 +14,4 @@
  -->
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shriya-salian&show_icons=true&locale=en" alt="shriya-salian" /></p>
  -->
-![GitHub Contributions](https://github.com/Shriya-Salian/Shriya-Salian/graphs/contributors)
+<!-- ![GitHub Contributions](https://github.com/Shriya-Salian/Shriya-Salian/graphs/contributors) -->
